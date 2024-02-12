@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499126136669",
+    "project_id": "finating",
+    "storage_bucket": "finating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499126136669:android:4ac69ecd8268e00b14c2b4",
+        "android_client_info": {
+          "package_name": "com.aclusion.finating"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSn6V833gNtTSedAdJBe59bR24OoYjoFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

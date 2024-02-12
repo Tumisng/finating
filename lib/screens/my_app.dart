@@ -1,6 +1,7 @@
 import 'package:finating/screens/group_details.dart';
 import 'package:finating/screens/group_details2.dart';
 import 'package:finating/screens/group_share_page.dart';
+import 'package:finating/screens/notifications.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatelessWidget {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const GroupDetails2Page(),
+      home: const NotificationsPage(),
       // routes: {
       //   '/login': (context) => const LoginPage(),
       //   '/otpverification':(context) => const OtpVerficationPage(),
